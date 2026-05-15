@@ -8,7 +8,7 @@ STATUS_COLORS = {
     "em_andamento": "🟠",
     "validado": "🟢",
     "preenchido": "🔵",
-    "concluido": ✅",
+    "concluido": "✅",
 }
 
 
